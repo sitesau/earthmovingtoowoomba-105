@@ -1,0 +1,22 @@
+{
+  "wheel_id": 750,
+  "structure": "umbrella",
+  "slug": "earthmovingtoowoomba-105",
+  "project": "earthmoving-contractors-toowoomba-checklist-56dd49571c6727dc02c",
+  "parent_t1_ref": "earthmovingtoowoomba-152",
+  "node_role": "feeder",
+  "money_target": "earthmovingtoowoomba.com.au",
+  "primary_kw": "earthmoving contractors toowoomba checklist",
+  "intended_url": "https://sites-e470-2.web.app/earthmoving-contractors-toowoomba-checklist-56dd49571c6727dc02c/",
+  "tier": "T2",
+  "writeback_nonce": "2a3d5d3d5d7694a2",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/earthmoving-contractors-toowoomba-common-mistakes-27b09ba03f10e/",
+      "anchor": "Earthmoving Contractors Toowoomba Common Mistakes: Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
